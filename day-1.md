@@ -1,3 +1,13 @@
-<h1>Daily Learning</h1>
-<h2>Morning Planning</h2>
-<h2>Review</h2>
+# Daily Learning
+
+## Morning Planning
+
+Plan my tasks and focus on learning something new.
+
+- Study
+- Practice
+- Complete tasks
+
+## Review
+
+Today I learned the basics of Markdown and practiced using headings and lists.
